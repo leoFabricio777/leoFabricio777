@@ -1,12 +1,11 @@
-### Hi there 👋
+### Seja Bem Vindo 👋
 
-<!--
-**leoFabricio777/leoFabricio777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Leonardo
+15 anos
+22/02/2008
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Estou estudando no colegio Estadual do Parana
+- 🌱 Atualmente estou aprendendo conteudo do ensino medio
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
